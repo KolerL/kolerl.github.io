@@ -17,8 +17,7 @@ tags:
 
 ### 数据通路：
 ![cpu1.png](/images/cpu1.png)
-&nbsp;
-&nbsp;
+
 要求实现下列十条指令：
 ```
     add rd, rs1, rs2        # x[rd] = x[rs1] + x[rs2]
@@ -351,8 +350,7 @@ endmodule
 
 ### 数据通路：
 ![cpu2.png](/images/cpu2.png)
-&nbsp;
-&nbsp;
+
 要求实现下列十条指令：
 ```
     add rd, rs1, rs2        # x[rd] = x[rs1] + x[rs2]
