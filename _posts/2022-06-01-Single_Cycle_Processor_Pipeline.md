@@ -1,7 +1,7 @@
 ---
 title: 'Single Cycle Processor & Pipeline'
-date: 2022-06
-permalink: /posts/2012/08/blog-post-1/
+date: 2022-06-01
+permalink: /posts/2022/06/Single_Cycle_Processor_Pipeline/
 tags:
   - Pipeline
   - Single Cycle
