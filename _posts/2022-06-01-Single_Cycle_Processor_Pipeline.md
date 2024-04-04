@@ -20,7 +20,7 @@ tags:
 
 要求实现下列十条指令：
 ```
-    add rd, rs1, rs2		    # x[rd] = x[rs1] + x[rs2]
+    add rd, rs1, rs2        # x[rd] = x[rs1] + x[rs2]
     addi rd, rs1, imm 	    # x[rd] = x[rs1] + sext(imm)
     sub rd, rs1, rs2		    # x[rd] = x[rs1] - x[rs2]
     auipc rd, imm           # x[rd] = pc + sext(imm[31:12] << 12)
@@ -28,7 +28,7 @@ tags:
     sw rs2, offset(rs1)     # M[x[rs1]+sext(offset)=x[rs2]
     beq rs1, rs2, offset    # if (rs1 == rs2) pc += sext(offset)
     blt rs1, rs2, offset    # if (rs1 < s rs2) pc += sext(offset)
-    jal rd, offset 	        # x[rd] = pc+4; pc += sext(offset) 
+    jal rd, offset 	    # x[rd] = pc+4; pc += sext(offset) 
     jalr rd, offset(rs1)    # t =pc+4; pc=(x[rs1]+sext(offset))&~1; x[rd]=t 
 ```
 
