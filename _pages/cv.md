@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science and Technology, University of Science and Technology of China (USTC), 2020-2024
+* B.S. in Computer Science and Technology, University of Science and Technology of China (USTC), 2024
 
 Honors and Awards
 ======
