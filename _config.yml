@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "Solaris_Koler"  # Replace this with your X / Twitter handle
+  twitter          : # Username
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -120,7 +120,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
