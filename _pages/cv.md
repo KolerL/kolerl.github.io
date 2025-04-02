@@ -11,16 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science and Technology, University of Science and Technology of China (USTC), 2024
+* B.Eng in Computer Science and Technology, University of Science and Technology of China (USTC), 2024
 
-Honors and Awards
+\faCertificate Honors and Awards
 ======
 * Model Student of Academic Records of USTC, Sep. 2020
 * "RoboGame" Robot Competition of USTC, The Third Prize Scholarship, Oct. 2021
-* National College Student Mathematical Modeling Competition, The Third Prize Scholarship, Nov. 2022
+* China Undergraduate Mathematical Contest in Modeling, The Third Prize Scholarship, Nov. 2022
 
 Skills
 ======
-* Language: proficient in C/C++, Python.
-* Knowledge: proficient in data structures and algorithms; competent to software and system development; Understand Linux, Windows
-* Tool: competent in Latex, Git, Matlab.
+* Proficient in Python with Large Language Models (LLMs) for tasks including data analysis and knowledge graph construction
+* Skilled in C/C++, with expertise in development tools (Git, CMake), relational databases (MySQL), and MATLAB
+* Experienced in Linux environments, network protocols, and network programming
+* IELTS 6.5; CET-4 & CET-6 certified, strong English communication and reading skills
