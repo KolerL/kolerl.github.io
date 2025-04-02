@@ -13,7 +13,7 @@ Education
 ======
 * B.Eng in Computer Science and Technology, University of Science and Technology of China (USTC), 2024
 
-\faCertificate Honors and Awards
+Honors and Awards
 ======
 * Model Student of Academic Records of USTC, Sep. 2020
 * "RoboGame" Robot Competition of USTC, The Third Prize Scholarship, Oct. 2021
