@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-I'm Hengyuan Liu (刘恒远 in Chinese), a fourth-year undergraduate student from [School of Computer Science and Technology](https://cs.ustc.edu.cn/), [University of Science and Technology of China (USTC)](https://ustc.edu.cn/). My research interest includes Machine Learning, Data Science, Data Mining and Artficial Intelligence.
+I'm Hengyuan Liu (刘恒远 in Chinese),currently studying for my master's degree in Innovation Design and Technology, Department of Mechanical Engineering, [the University of Hong Kong](https://www.hku.hk/). Prior to this, I received my B.Eng. in Computer Science and Technology from the [University of Science and Technology of China(USTC)](https://en.ustc.edu.cn/) in 2024.
 
