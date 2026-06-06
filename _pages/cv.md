@@ -15,7 +15,7 @@ Education
   
 Skills
 ======
-Computer Science & Artificial Intelligence
+* Computer Science & Artificial Intelligence
 
 Projects
 ======
