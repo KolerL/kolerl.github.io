@@ -15,10 +15,7 @@ Education
   
 Skills
 ======
-* Proficient in Python with Large Language Models (LLMs) for tasks including data analysis and knowledge graph construction
-* Skilled in C/C++, with expertise in development tools (Git, CMake), relational databases (MySQL), and MATLAB
-* Experienced in Linux environments, network protocols, and network programming
-* IELTS 6.5; CET-4 & CET-6 certified, strong English communication and reading skills
+Computer Science & Artificial Intelligence
 
 Projects
 ======
